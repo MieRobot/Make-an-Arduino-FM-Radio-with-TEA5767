@@ -4,5 +4,5 @@
 To copy this project use the below from the path you wish to save
 #git clone https://github.com/MieRobot/Make-an-Arduino-FM-Radio-with-TEA5767.git
 
-Course link is at
-https://skl.sh/2HoqvNR
+Blog link is at
+https://anirbanghatak.com/fm-radio-in-two-hours
